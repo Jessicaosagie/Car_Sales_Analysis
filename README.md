@@ -33,7 +33,6 @@ The dataset contains customer demographics, car specifications, dealer informati
 ## 🛠️ Tools Used
 - **Excel** → Pivot Tables & Sales Charts  
 - **SQL** → Querying and data analysis  
-- **Power BI** → Interactive dashboards and advanced visuals  
 - **GitHub** → Project documentation and portfolio showcase  
 
 ---
