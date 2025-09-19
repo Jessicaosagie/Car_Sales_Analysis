@@ -78,6 +78,16 @@ GROUP BY BodyStyle
 ORDER BY TotalSold DESC;
 ```
 
+```sql
+---Revenue split by transmission type---
+SELECT Transmission, SUM(Price) AS TotalRevenue
+FROM car_sales
+GROUP BY Transmission
+ORDER BY TotalRevenue DESC;
+```
+
+---
+
 ## 🏷️ Author  
 
 - **Name:** Jessica Osagie  
