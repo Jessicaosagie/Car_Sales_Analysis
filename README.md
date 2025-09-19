@@ -57,6 +57,8 @@ The dataset contains customer demographics, car specifications, dealer informati
 
 ### Excel Pivot Tables 
 
+---
+
 ## 💻 SQL Queries
 
 
