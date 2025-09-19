@@ -57,9 +57,12 @@ The dataset contains customer demographics, car specifications, dealer informati
 
 ### Excel Pivot Tables 
 
+<img width="548" height="260" alt="Screenshot 2025-09-19 165625" src="https://github.com/user-attachments/assets/c3da2c4b-8fcc-436f-839e-18072ce6518a" />
+
 ---
 
 ## 💻 SQL Queries
+
 
 
 ```sql
@@ -92,4 +95,4 @@ ORDER BY TotalRevenue DESC;
 
 - **Name:** Jessica Osagie  
 - **Email:** jessica.a.osagie@gmail.com   
-- **LinkedIn:** [LinkedIn](https://linkedin.com/in/jessica-osagie/)  
+- **LinkedIn:** [jessica-osagie](https://linkedin.com/in/jessica-osagie/)  
