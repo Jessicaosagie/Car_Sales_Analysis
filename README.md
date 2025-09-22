@@ -60,7 +60,7 @@ The dataset contains customer demographics, car specifications, dealer informati
 
 ---
 
-## 💻 SQL Queries
+## 🗄️ SQL Queries
 
 
 
