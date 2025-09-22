@@ -49,7 +49,10 @@ The dataset contains customer demographics, car specifications, dealer informati
   
 ---
 ## 📊 Visualizations  
-  
+
+### Power Bi
+<img width="1040" height="656" alt="image" src="https://github.com/user-attachments/assets/4c5ed9ba-4a61-4ca6-acaa-a23876946548" />
+
 ### Charts  
 
 <img width="646" height="251" alt="Pivot Table_Car Sales Report" src="https://github.com/user-attachments/assets/54748c6f-b903-424b-883f-f60d6a04c561" />
